@@ -16,8 +16,12 @@ const Footer = () => {
         <div className={styles.devs_block}>
           <span>{t('dev_by')}</span>
           <div className={styles.devs}>
-            <a href="https://github.com/GoldenManBel" target="_blank" rel="noopener noreferrer">
-              GoldenManBel
+            <a
+              href="https://github.com/AlexanderYovzhenko"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              AlexanderYovzhenko
             </a>
             <a href="https://github.com/graywa" target="_blank" rel="noopener noreferrer">
               graywa
