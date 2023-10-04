@@ -1,6 +1,6 @@
 # Vezha
 
-## WebSite - https://goldenmanbel.github.io/project-management-app
+## WebSite - https://alexanderyovzhenko.github.io/project-management-app
 
 Vezha helps teams move work forward!
 
@@ -9,7 +9,7 @@ Vezha helps teams move work forward!
 ## Downloading
 
 ```bash
-git clone https://github.com/GoldenManBel/project-management-app.git
+git clone https://github.com/AlexanderYovzhenko/project-management-app.git
 ```
 
 ## Switch branch
